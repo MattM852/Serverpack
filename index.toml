@@ -1,0 +1,51 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "ee523cfd058b4d85cc6a231c9a35aecffc1441098fbde5254fc34919115a4f53"
+metafile = true
+
+[[files]]
+file = "mods/cristel-lib.pw.toml"
+hash = "26d1ab497ef70c80f9a429872faa0efcc308c36db4e8f42c78325a46b7f4c58c"
+metafile = true
+
+[[files]]
+file = "mods/distant-horizons-seedgen.pw.toml"
+hash = "21a4f66f75cc2971685ee0980bea52bf798d88b608b766f66f853d087f9c2d1b"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "8cfd619edd7190fdd7f048bc7815193699d0583857f988e421b8e7816167ad25"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "a4c31d16582621909eba9f06a34f03114d212c7e684c8dbc9991fb12a42e043b"
+metafile = true
+
+[[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "ccee57f34e035e85ebb41db22ba255b61aa885f69bd8ef2f7b818be7fa546750"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "0bf314c578473659bd89915114cac8e60994988f405218726a48d35b06e9316c"
+metafile = true
+
+[[files]]
+file = "mods/tectonic.pw.toml"
+hash = "f690f6b906c8bf030587b239f23fb45651051de3d18bda5c4385a4687dfa317c"
+metafile = true
+
+[[files]]
+file = "mods/terralith.pw.toml"
+hash = "11753ff4740122b98d7b0aae3eccda9a4ff289c23448c7abfd0c8dbc425b10c7"
+metafile = true
+
+[[files]]
+file = "mods/towns-and-towers.pw.toml"
+hash = "f9e2ed483e755dd5f9482764dec3979aca741df45b261c8b33c7ec70d9af3dd0"
+metafile = true
