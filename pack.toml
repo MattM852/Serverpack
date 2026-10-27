@@ -1,0 +1,12 @@
+name = "Serverpack"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "b155ea0f7c81538bf0007ce3f2ff00e195671ab5ea288400404b508f5674c7e3"
+
+[versions]
+fabric = "0.20.1"
+minecraft = "26.3"
