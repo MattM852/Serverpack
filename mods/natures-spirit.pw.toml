@@ -1,0 +1,13 @@
+name = "Nature's Spirit"
+filename = "NaturesSpiritFabric-2.2.6-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WBvnqHfV/versions/SeqkFW07/NaturesSpiritFabric-2.2.6-1.21.1.jar"
+hash-format = "sha512"
+hash = "87630c3ed6535a7c08e476380ad95cfeedfe4f7c3bf3335de013ef0acec40fc5faf274cd69f50c01d330947b4c812dfbb6151383ba5f9f221f114b051207578d"
+
+[update]
+[update.modrinth]
+mod-id = "WBvnqHfV"
+version = "SeqkFW07"
