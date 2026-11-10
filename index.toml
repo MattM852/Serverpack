@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "e497de776985e17626ed2e9c638ecce636e5e7d454743491887a0c6f152804f7"
+hash = "e3040d049901eee1c4be7689d08d37ea3d4c5ecdcd9ae42c27d83dca2f8109d3"
 
 [[files]]
 file = "config/euphoria_patcher/.data.json"

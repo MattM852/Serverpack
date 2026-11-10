@@ -228,7 +228,7 @@ _version = 5
 		# CHAT 
 		# LOG 
 		# DISABLED
-		showGenerationProgress = "OVERLAY"
+		showGenerationProgress = "DISABLED"
 		#
 		# If the SURFACE_THEN_CHUNKS generator plan is 
 		# in use, this percentage can be defined to reduce how far the 
@@ -310,7 +310,7 @@ _version = 5
 		# 
 		# DISABLED 
 		# No distant terrain will be generated.
-		generatorPlan = "SURFACE_THEN_CHUNKS"
+		generatorPlan = "CHUNKS_ONLY"
 		#
 		# If true and the player/camera is moving quickly 
 		# Distant Horizons will pause world gen to improve loading speed 
