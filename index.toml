@@ -18,7 +18,7 @@ hash = "17ab2b0b24555b90e3da6b0ad7c998f1b22ca9c4337ea40b86fa3bff3f4ae611"
 
 [[files]]
 file = "Serverpack/config/roughlyenoughitems/favorites.json5"
-hash = "8cef0ec38280f76fd139952d663cff887d807e28d526c78dbee916d5c8881022"
+hash = "c71e7949781273eacc800aab94a1d4c392e5072da9d590a53d604df5aa54a8f2"
 
 [[files]]
 file = "Serverpack/config/roughlyenoughitems/hints.json"
@@ -34,7 +34,7 @@ hash = "a5e702e6247251ff96dd9787654ef72158e687edeb2de234134ddcb453719891"
 
 [[files]]
 file = "Serverpack/index.toml"
-hash = "4d257b67455132e07e7921acb8782ff061cf18ee8a88070c96b3e115f21aed29"
+hash = "b1d71a6e7a96970ec40c5b19a4496aafa82fe86e57041b584c0061df45f72631"
 
 [[files]]
 file = "Serverpack/mods/almanac.pw.toml"
@@ -69,6 +69,11 @@ metafile = true
 [[files]]
 file = "Serverpack/mods/biome-dither.pw.toml"
 hash = "2936c25185935adbb86e9fe9360eedf5540f4811d49c3f3e94e6528f262667c4"
+metafile = true
+
+[[files]]
+file = "Serverpack/mods/bookshelf-lib.pw.toml"
+hash = "6d4de3bf124c98a61c022477e07c8386940d4804001f5f71b322c9b1b74cb5c2"
 metafile = true
 
 [[files]]
@@ -172,6 +177,11 @@ hash = "0c589f497d0457008a2963e4caaa3fb243adff8b5079fe299ac441374bd408cc"
 metafile = true
 
 [[files]]
+file = "Serverpack/mods/enchantment-descriptions.pw.toml"
+hash = "9473554d1bd68148f23f4f0f09023cd44a85eed6b639c812eab7759110ac1e81"
+metafile = true
+
+[[files]]
 file = "Serverpack/mods/entity-model-features.pw.toml"
 hash = "fe1ea345a6ad680c070f4c3e67d070d1751da45f578af22613a4e6ae0586120c"
 metafile = true
@@ -189,6 +199,11 @@ metafile = true
 [[files]]
 file = "Serverpack/mods/euphoria-patches.pw.toml"
 hash = "c1f2d0a1537909b2b2c37aa8576af52f21b6f52ee18048310e48ab7169b87f57"
+metafile = true
+
+[[files]]
+file = "Serverpack/mods/explorify.pw.toml"
+hash = "133a8fa53146424351e19d604b1d47a100797a3361b8cb3c2ee8971ee84f63b4"
 metafile = true
 
 [[files]]
@@ -292,6 +307,11 @@ hash = "62f164a7b7c8731436389dc1855862d1eb1fa73fd76407b0fb8d129b7b6f00a9"
 metafile = true
 
 [[files]]
+file = "Serverpack/mods/moonlight.pw.toml"
+hash = "5b44f9d615e53f911b47b89aec48a255a462023ab25313adeaaeb67ebf77cc43"
+metafile = true
+
+[[files]]
 file = "Serverpack/mods/morechathistory.pw.toml"
 hash = "096bce1d87ff7f759d07ae6501043c5d2db1bcdffb5ea566425843f12ff8e348"
 metafile = true
@@ -299,6 +319,11 @@ metafile = true
 [[files]]
 file = "Serverpack/mods/moreculling.pw.toml"
 hash = "fb61cbe844cc739a6bba30c703c0047f2e21e343f8d4b61e30a27d3bc5cc2840"
+metafile = true
+
+[[files]]
+file = "Serverpack/mods/mouse-tweaks.pw.toml"
+hash = "7fc969e77edc3b0b9946b42070fd858349a74555f0cf9648907241af8a3a2d25"
 metafile = true
 
 [[files]]
@@ -344,6 +369,11 @@ metafile = true
 [[files]]
 file = "Serverpack/mods/polymer.pw.toml"
 hash = "1c13286be4f09e25c93ef1640335a951df1dd0f155f6d7a173dfc284831e09c3"
+metafile = true
+
+[[files]]
+file = "Serverpack/mods/prickle.pw.toml"
+hash = "122659d423e8fe5c47b4121bf382e5ceea0ea2c644cd0a08d577cf58ef55d495"
 metafile = true
 
 [[files]]
@@ -394,6 +424,16 @@ metafile = true
 [[files]]
 file = "Serverpack/mods/streams-reflowing.pw.toml"
 hash = "5fcfe9f44e25b986d95aef005641db10fbacbf39c2c6f5f843acd0ee31967a26"
+metafile = true
+
+[[files]]
+file = "Serverpack/mods/structory.pw.toml"
+hash = "3c4da8a221086153d491104bba4fd8796dac92d5c3e0b2dc111a6c5d53b65484"
+metafile = true
+
+[[files]]
+file = "Serverpack/mods/supplementaries.pw.toml"
+hash = "604c61f3caadb7f3a5eb2991d84fa56655faa2f7e6e98d13d3027659cfcf00b1"
 metafile = true
 
 [[files]]
@@ -462,6 +502,11 @@ hash = "df224cc503e7289ffc13de4a6a443c1e2a5c7c6050d70b9fcafc69400c1e715a"
 metafile = true
 
 [[files]]
+file = "Serverpack/mods/xaeros-minimap.pw.toml"
+hash = "3d9b82d9ae5481fb89d2b9ee9078ab07abe7f173c721b5fe305ee61e143d4a51"
+metafile = true
+
+[[files]]
 file = "Serverpack/mods/yacl.pw.toml"
 hash = "af20070dd9497817a83162c17b181a0a44f7213ea302d059a81c5aed02d0c877"
 metafile = true
@@ -493,7 +538,7 @@ metafile = true
 
 [[files]]
 file = "Serverpack/pack.toml"
-hash = "18e134bbd5461acfc2a9b15deb6b4ca74833a06110836f8009481b7da16b6d2e"
+hash = "9440906b1a5f9580c332aa2f3d3669acda1337afeebbf793f27d946d5ad431d6"
 
 [[files]]
 file = "Serverpack/resourcepacks/better-leaves.pw.toml"
@@ -508,6 +553,10 @@ hash = "e9d243f884f7d85725060af391f23cfd2fc8c46e074593e6ce63e800e1b51ef6"
 file = "Serverpack/shaderpacks/complementary-reimagined.pw.toml"
 hash = "507cb3963240110bc71ed7c75cac1682e66d3609536b0bc5ef90a01db3cce21f"
 metafile = true
+
+[[files]]
+file = "config/DistantHorizons.toml"
+hash = "e497de776985e17626ed2e9c638ecce636e5e7d454743491887a0c6f152804f7"
 
 [[files]]
 file = "config/euphoria_patcher/.data.json"
@@ -540,6 +589,10 @@ hash = "70f669a0e7b93504ccf8fafe719cd397e9962fae671255f982bdd9475e353c10"
 [[files]]
 file = "config/roughlyenoughitems/pinyin_double.properties"
 hash = "a5e702e6247251ff96dd9787654ef72158e687edeb2de234134ddcb453719891"
+
+[[files]]
+file = "config/terralith.json"
+hash = "7dced0f1a0a6eb20c4fc5a5d25d6bd1742f8cb3eeae32474793a0935622a2a1f"
 
 [[files]]
 file = "mods/almanac.pw.toml"
