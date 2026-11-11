@@ -137,7 +137,7 @@ metafile = true
 
 [[files]]
 file = "mods/distant-horizons-seedgen.pw.toml"
-hash = "56b9639df5e72f3493e237b711e551505f6d8814c0e5e01f5175834519149bf2"
+hash = "d487bf542859a21a829dd287b65ef73e6e0afbbbd430aa264b0c2e22886b4daf"
 metafile = true
 
 [[files]]

@@ -1,13 +1,13 @@
 name = "Distant Horizons SeedGen"
-filename = "Distant Horizons SeedGen 0.9.1 for 1.21.1 Fabric.jar"
+filename = "Distant Horizons SeedGen 0.8.0 for 1.21.1 Fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/iUGLCJTI/versions/eiUO989f/Distant%20Horizons%20SeedGen%200.9.1%20for%201.21.1%20Fabric.jar"
+url = "https://cdn.modrinth.com/data/iUGLCJTI/versions/tysQRzei/Distant%20Horizons%20SeedGen%200.8.0%20for%201.21.1%20Fabric.jar"
 hash-format = "sha512"
-hash = "41c1ce5648cf16e0946b4f1613693fbb42fe95607e60e1251a6ca169cb94e2450a77acd752ca84a4cb2f2d32fdb57a816086fab0d9e47e46a3bf2cad0b32e168"
+hash = "a0e2608d3a588f19972818505f587cd4f79705622a95af159cc52729c033f8cc23da097ad1faa514c26a9d449d8f9561bbb1e73ccf35ca4fa020dcb956fec5a8"
 
 [update]
 [update.modrinth]
 mod-id = "iUGLCJTI"
-version = "eiUO989f"
+version = "tysQRzei"
